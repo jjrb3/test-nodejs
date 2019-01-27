@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Practicas con Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjrb3/nodejs.git"
+  },
+  "author": "Jeremy Reyes B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjrb3/nodejs/issues"
+  },
+  "homepage": "https://github.com/jjrb3/nodejs#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "standard": "^11.0.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.0.4"
+  }
+}
